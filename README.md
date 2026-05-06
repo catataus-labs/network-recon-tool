@@ -1,3 +1,5 @@
+[Read in English](README.en.md)
+
 # Network Recon Tool 🛡️
 
 **Projeto desenvolvido por: Luiz Felipe (catataus-labs)**
